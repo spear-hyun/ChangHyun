@@ -2,8 +2,8 @@
 <!-- ### $\textcolor{green}{\text{Hi, Come check my github :)}}$ -->
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
   👩🏻‍💻 My name is Changhuyn <br>
-  🎓 I have a bachelor's degree on Applied Statistics & Health and Environmental Science.<br>
-  🏅 I just graduated PlayData(Encore Academy)'s Big Data Engineering BootCamp and I'm hoping to enter the market  as a web dev.
+  🎓 I have a bachelor's degree in Computer Science and Big Data Healthcare Convergence.<br>
+  🏅 I just graduated PlayData(Encore Academy)'s Big Data Engineering BootCamp and I'm hoping to enter the market  as a Data Engineer.
 
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fspear-hyun&label=♡visitors♡&labelColor=%23D5EDFF&countColor=%23D5EDFF)
 <!-- ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&label=♡visitors♡&labelColor=%23E4CCFF&countColor=%23E4CCFF) -->
@@ -12,10 +12,10 @@
 
 ## ${\color{#e8d399}✨ \space GitHub \space Stats}$
 <a href="https://github.com/spear-hyun">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=spear_hyun&theme=solarized-light&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=spear-hyun&theme=solarized-light&card_width=400" />
 </a>
 <a href="https://github.com/spear-hyun">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spear_hyun&layout=compact&langs_count=8&card_width=320&theme=solarized-light&rank-icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spear-hyun&layout=compact&langs_count=8&card_width=320&theme=solarized-light&rank-icon=github" />
 </a>
 
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&labelColor=%23263759&countColor=%23fcf6e5) -->
@@ -135,13 +135,70 @@
       </a>
       <br>Jira
     </td>
+    
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" width="48" height="48" alt="Kafka" />
+      </a>
+      <br>Kafka
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" width="48" height="48" alt="elasticsearch" />
+      </a>
+      <br>Elasticsearch
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="48" height="48" alt="redis" />
+      </a>
+      <br>RedisDB
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" width="48" height="48" alt="Spark" />
+      </a>
+      <br>Spark
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" width="48" height="48" alt="Hadoop" />
+      </a>
+      <br>Hadoop
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="48" height="48" alt="BigQuery" />
+      </a>
+      <br>BigQuery
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg" width="48" height="48" alt="Logstash" />
+      </a>
+      <br>Logstash
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="48" height="48" alt="tensorflow" />
+      </a>
+      <br>Tensorflow
+    </td>
   </tr>
 </table>
 
 
 <br><br>
 ## ${\color{#aac766}🐍 \space My \space commits \space being \space devoured \space 😨🤭}$
-  <img width="100%" src="https://github.com/happinhwa/happinhwa/blob/output/github-contribution-grid-snake.svg">
+  <img width="100%" src="https://github.com/spear-hyun/ChangHyun/blob/output/github-contribution-grid-snake.svg">
 <div> 
   <!-- python --><!-- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <!-- r --><!-- <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
