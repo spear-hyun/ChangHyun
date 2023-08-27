@@ -1,41 +1,21 @@
-# ChangHyun
-
 ## ${\color{#79b6c9}🦋 \space Come \space check \space my \space github \space :)} $ 
 <!-- ### $\textcolor{green}{\text{Hi, Come check my github :)}}$ -->
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
-  👩🏻‍💻 My name is Changhuyn but you can also call me Desiree.<br>
+  👩🏻‍💻 My name is Changhuyn <br>
   🎓 I have a bachelor's degree on Applied Statistics & Health and Environmental Science.<br>
   🏅 I just graduated PlayData(Encore Academy)'s Big Data Engineering BootCamp and I'm hoping to enter the market  as a web dev.
 
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&label=♡visitors♡&labelColor=%23D5EDFF&countColor=%23D5EDFF)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fspear-hyun&label=♡visitors♡&labelColor=%23D5EDFF&countColor=%23D5EDFF)
 <!-- ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&label=♡visitors♡&labelColor=%23E4CCFF&countColor=%23E4CCFF) -->
-
-
-## ${\color{#7E4DD2}💟 \space Contact \space Me \space Anytime }$
-  <a href="https://hihwa.tistory.com">
-    <img height="25" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=[(https://hihwa.tistory.com)]/"/>
-  </a>
-  <a href="mailto:happinhwa@gmail.com">
-    <img height="25" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happinhwa@gmail.com"/>
-  </a> 
-
-
-## ${\color{lightpink}🎀 \space Projects}$
-  🔗<a href="https://github.com/happinhwa/project_seo">
-    <img height="25" src="https://img.shields.io/badge/Teacher's Day Event-F2B7B7?style=flat-square&logo=GitHub%20Sponsors&logoColor=black">
-  </a> <br>
-  🔗<a href="https://github.com/happinhwa/mini_project">
-    <img height="25" src="https://img.shields.io/badge/Talent Shoppinig Mall-F2B7B7?style=flat-square&logo=GitHub%20Sponsors&logoColor=black">
-  </a> <br>
 
 
 
 ## ${\color{#e8d399}✨ \space GitHub \space Stats}$
-<a href="https://github.com/happinhwa/happinhwa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=happinhwa&theme=solarized-light&card_width=400" />
+<a href="https://github.com/spear-hyun">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=spear_hyun&theme=solarized-light&card_width=400" />
 </a>
-<a href="https://github.com/happinhwa/happinhwa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happinhwa&layout=compact&langs_count=8&card_width=320&theme=solarized-light&rank-icon=github" />
+<a href="https://github.com/spear-hyun">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spear_hyun&layout=compact&langs_count=8&card_width=320&theme=solarized-light&rank-icon=github" />
 </a>
 
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&labelColor=%23263759&countColor=%23fcf6e5) -->
